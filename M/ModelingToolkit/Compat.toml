@@ -351,11 +351,11 @@ SymbolicUtils = "4.31.0 - 4"
 ["11.26.7"]
 ModelingToolkitBase = "1.42.0 - 1"
 
-["11.26.8 - 11"]
-OrderedCollections = "1 - 2"
-
 ["11.26.8 - 11.26"]
 ModelingToolkitBase = "1.42.2 - 1"
+
+["11.26.8 - 11.40.0"]
+OrderedCollections = "1 - 2"
 
 ["11.27"]
 ModelingToolkitBase = "1.43.0 - 1"
@@ -466,6 +466,9 @@ DocStringExtensions = "0.9"
 ModelingToolkitBase = "1.64.0 - 1"
 SciMLBase = "3.46.0 - 3"
 SciMLStructures = "1.10.2 - 1"
+
+["11.40.1 - 11"]
+OrderedCollections = "2"
 
 ["11.5"]
 ModelingToolkitBase = "1.4.0 - 1.41"
